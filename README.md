@@ -1,2 +1,17 @@
 # MLE_start
-Я здесь опишу свой процесс обучения на Codecademy (на профессию Инженер Искусственного Интеллекта ИИИ :)).
+
+## 5 skill tracks 
+
+### Introduction (Введения)
+
+### Machine Learning Fundamentals (Фундамент)
+
+### Software Engineering for MLE's (Инженер ПО)
+
+### Intermediate Machine Learning (От Джуниора к Миддле)
+
+### Building Machine Learning Pipelines (Пайплайны)
+
+``` Here we go ```
+
+## 1. Введения
