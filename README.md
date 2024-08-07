@@ -22,4 +22,4 @@
 
 Тогда какая разница между Data Science, Data Engineer & Machine Learning Engineer?
 
-<img src="images/ ">
+<img src="images/Screenshot_107.png">
