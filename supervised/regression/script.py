@@ -19,3 +19,5 @@ number_of_burglaries = 2
 y_pred = reg.predict(np.array([square_footage, number_of_burglaries]).reshape(1, 2))
 
 print(y_pred)
+
+# result: [2962.382194]
